@@ -1,0 +1,20 @@
+2022-04-16 16:48:58,227 INFO o.s.b.StartupInfoLogger [main] Starting LoggerApplication using Java 17.0.2 on 8QNTJM3 with PID 235340 (/home/nitik/Downloads/logger/target/classes started by nitik in /home/nitik/Downloads/logger)
+2022-04-16 16:48:58,242 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-16 16:48:58,245 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-16 16:49:00,094 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-04-16 16:49:00,127 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-16 16:49:00,129 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2022-04-16 16:49:00,130 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-16 16:49:00,272 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-04-16 16:49:00,273 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1922 ms
+2022-04-16 16:49:00,951 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-16 16:49:00,977 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-16 16:49:00,995 INFO o.s.b.StartupInfoLogger [main] Started LoggerApplication in 3.675 seconds (JVM running for 5.256)
+2022-04-16 16:49:06,094 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-16 16:49:06,098 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-04-16 16:49:06,104 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 4 ms
+2022-04-16 16:49:06,213 TRACE c.e.l.c.LoggingController [http-nio-8080-exec-1] A TRACE message
+2022-04-16 16:49:06,214 DEBUG c.e.l.c.LoggingController [http-nio-8080-exec-1] A DEBUG Message
+2022-04-16 16:49:06,216 INFO c.e.l.c.LoggingController [http-nio-8080-exec-1] An INFO Message
+2022-04-16 16:49:06,217 WARN c.e.l.c.LoggingController [http-nio-8080-exec-1] A WARN Message
+2022-04-16 16:49:06,218 ERROR c.e.l.c.LoggingController [http-nio-8080-exec-1] An ERROR Message

@@ -1,0 +1,54 @@
+2022-04-16 16:31:13,233 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggerApplication using Java 17.0.2 on 8QNTJM3 with PID 230024 (/home/nitik/Downloads/logger/target/classes started by nitik in /home/nitik/Downloads/logger)
+2022-04-16 16:31:13,242 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-16 16:31:15,232 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-04-16 16:31:15,256 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-16 16:31:15,257 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-04-16 16:31:15,258 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-16 16:31:15,420 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-04-16 16:31:15,421 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2017 ms
+2022-04-16 16:31:16,183 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-16 16:31:16,212 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-16 16:31:16,231 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggerApplication in 4.134 seconds (JVM running for 4.978)
+2022-04-16 16:31:48,731 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-16 16:31:48,732 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-04-16 16:31:48,734 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-04-16 16:31:48,791 INFO com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] An INFO Message
+2022-04-16 16:31:48,793 WARN com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] A WARN Message
+2022-04-16 16:31:48,794 ERROR com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] An ERROR Message
+2022-04-16 16:33:34,863 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggerApplication using Java 17.0.2 on 8QNTJM3 with PID 230772 (/home/nitik/Downloads/logger/target/classes started by nitik in /home/nitik/Downloads/logger)
+2022-04-16 16:33:34,885 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-16 16:33:36,889 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-04-16 16:33:36,909 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-16 16:33:36,910 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-04-16 16:33:36,912 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-16 16:33:37,042 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-04-16 16:33:37,043 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1944 ms
+2022-04-16 16:33:37,904 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-16 16:33:37,940 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-16 16:33:37,961 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggerApplication in 4.615 seconds (JVM running for 5.429)
+2022-04-16 16:33:42,991 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-16 16:33:42,993 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-04-16 16:33:42,996 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-04-16 16:33:43,053 INFO com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] An INFO Message
+2022-04-16 16:33:43,054 WARN com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] A WARN Message
+2022-04-16 16:33:43,055 ERROR com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] An ERROR Message
+2022-04-16 16:34:26,654 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggerApplication using Java 17.0.2 on 8QNTJM3 with PID 231059 (/home/nitik/Downloads/logger/target/classes started by nitik in /home/nitik/Downloads/logger)
+2022-04-16 16:34:26,662 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-16 16:34:26,665 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-04-16 16:34:28,553 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-04-16 16:34:28,572 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-16 16:34:28,574 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-04-16 16:34:28,574 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-16 16:34:28,721 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-04-16 16:34:28,722 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1912 ms
+2022-04-16 16:34:29,429 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-16 16:34:29,458 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-16 16:34:29,478 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggerApplication in 3.934 seconds (JVM running for 4.849)
+2022-04-16 16:34:35,367 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-16 16:34:35,369 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-04-16 16:34:35,373 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 3 ms
+2022-04-16 16:34:35,453 TRACE com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] A TRACE message
+2022-04-16 16:34:35,456 DEBUG com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] A DEBUG Message
+2022-04-16 16:34:35,457 INFO com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] An INFO Message
+2022-04-16 16:34:35,459 WARN com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] A WARN Message
+2022-04-16 16:34:35,460 ERROR com.example.logger.controllers.LoggingController [http-nio-8080-exec-1] An ERROR Message
